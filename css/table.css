@@ -1,0 +1,46 @@
+  #app2 {
+    width: 98%;
+    padding-left: 1%;
+    flex-direction: row;
+  }
+
+  body {
+    text-align: center;
+  }
+  
+  [v-cloak] {
+    display: none;
+  }
+  
+  table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+  
+  table {
+      border: 3px solid black;
+  }
+  
+  th {
+      background-color: darkgray;
+      color: white;
+  }
+  
+  #DbTable tr:nth-child(even) {background-color: #f2f2f2;}
+  
+  th, td {
+      border-bottom: 1px solid gray;
+      text-align: center;
+      font-size: 15px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+    
+  [v-cloak] {
+      display: none;
+  }
+
+  #placement {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }

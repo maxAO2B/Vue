@@ -1,0 +1,32 @@
+#info {
+    top: 78px;
+    border: 2px solid black;
+    margin-left: 40em;
+    position: fixed;
+    left: 0;
+    width: 56%;
+    height: 130px;
+    overflow: auto;
+ }
+
+ #select {
+    top: 228px;
+    margin-left: 40em;
+    position: fixed;
+    left: 0;
+ }
+
+ #countries {
+    top: 268px;
+    border: 2px solid black;
+    margin-left: 40em;
+    position: fixed;
+    left: 0;
+    width: 56%;
+    height: 472px;
+    overflow: auto;
+ }
+
+ #load {
+     margin: 15px;
+ }
